@@ -18,3 +18,20 @@
 第八课：UIButton 按钮控件
 第九课：UISwitch 开关控件
 第十课：~
+
+
+  As a high school information technology teacher, how to let students touch the real frontier projects has always been my enthusiasm, limited by my own knowledge, I really need master guidance and guidance.
+
+  In 2015, with the help of student Terry and his father, I started the iOS Programming course in the first year of high school, developing the environment xcode6 beta version, language swift. No mac environment, use windows + virtual machine vmware to build a programming environment. The tutorial uses the APP xcode tutorial. In 2015, 2016, and 2018, real machine testing and app publishing were not implemented. The micro-projects produced are limited to UI design, and there is no app development that implements certain functions.
+
+  In 2019, I want to achieve the goal of the course: First, the real machine test. Second, students will use github. Third, through the coredata database learning, students can develop a real and practical app.
+  
+   Lesson 1: Set up an iOS programming environment and get to know xcode. 
+   Lesson 2: The first experience of project development. 
+   Lesson 3: UIImage Image Control
+   Lesson 4: Code Framework 
+   Lesson 5: UILabel Tab UIColor Color 
+   Lesson 6: Understanding Swift 
+   Lesson 7: UIView View Control 
+   Lesson 8: UIButton Button Control 
+   Lesson 9: UISwitch Switch Control Tenth Lesson: ~
